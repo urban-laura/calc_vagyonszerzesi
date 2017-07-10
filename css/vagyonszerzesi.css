@@ -1,0 +1,108 @@
+.frame
+{
+	width : 420px;
+	font-family : Verdana;
+	background-color : #EEEEEE;
+	border-radius : 5px 5px 5px 5px;
+	color: #01224a;
+	padding-bottom : 5px;
+}
+
+#vagyonszerzesi
+{
+	padding : 15px; 
+	padding-top : 0;
+}
+
+#vagyonszerzesi h4
+{
+	font-weight : normal;
+	margin-top : 10px;
+	margin-bottom : 0px;
+}
+
+#sum
+{
+	padding : 15px;
+	padding-top : 10px; 
+	padding-bottom : 0px;
+}
+
+#sum h4
+{
+	font-weight : normal;
+	margin-top : 0px;
+	margin-bottom : 10px;
+	text-align : center;
+}
+
+
+#error
+{
+	color: red;
+	text-align : center;
+}
+
+#error h3
+{
+	font-weight : normal;
+	margin : 0px;
+	font-size : 16px;
+}
+
+.calc-form
+{
+	margin : 0;
+}
+
+.title
+{
+	background-color : #005398;
+	height : 50px; 
+	border-radius : 5px 5px 0px 0px; 
+	text-align : center;	
+}
+
+.title h1
+{
+	font-weight: bold; 
+	font-size : 20px;
+	color : white;
+	margin : 0;
+	padding-top : 12px;
+}
+
+.date
+{
+	width : 70px;
+}
+
+.padding-top
+{
+	padding-top : 15px;
+}
+
+.submit
+{
+	background-color : #EEEEEE;
+	color: #01224a;
+	font-family : Verdana;
+	width : 420px;
+	text-align : center;
+}
+
+.form-submit
+{
+	width : 100px;
+	height : 30px;
+}
+
+.or
+{
+	width : 45px;
+}
+
+.invisible
+{
+	display : none;
+}
